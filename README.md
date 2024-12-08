@@ -1,4 +1,7 @@
 # GO URL Shortener
+![Shiva's URL Shortener](https://github.com/Shiva-2103/GO_URL_SHORTENER/blob/main/GO_URL.jpg)
+
+
 
 A simple and efficient URL Shortener built using Golang, Redis, Docker Compose, and the Fiber framework. This project allows users to shorten long URLs and easily redirect to the original URLs using the generated short links.
 
